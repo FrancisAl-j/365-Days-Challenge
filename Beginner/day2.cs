@@ -8,6 +8,7 @@ using System;
 
 class Day2
 {
+    // This is the main method or Main class file I can Just call/import the methods in other files
     static void Main(string[] args)
     {
         // 20
@@ -15,5 +16,8 @@ class Day2
 
         // 2
         Console.WriteLine(1 + 1);
+
+        // importing Day 3
+        day3.evenOrOdd(2);
     }
 }
