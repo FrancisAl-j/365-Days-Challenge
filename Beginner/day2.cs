@@ -18,6 +18,9 @@ class Day2
         Console.WriteLine(1 + 1);
 
         // importing Day 3
-        day3.evenOrOdd(2);
+        //day3.evenOrOdd(2);
+
+        // Importing Day 4
+        day4.calculator(5, 4);
     }
 }
