@@ -1,367 +1,375 @@
-C# 365 challenges solve each challenges in 1 day
+365-Day C# Challenge Plan
 
-Day 1: Beginner Challenge #1 - Print 'Hello, World!' to the console.
-Day 2: Beginner Challenge #2 - Create a program to add two numbers.
-Day 3: Beginner Challenge #3 - Write a program to check if a number is even or odd.
-Day 4: Beginner Challenge #4 - Build a simple calculator for +, -, _, /.
-Day 5: Beginner Challenge #5 - Write a program to find the maximum of three numbers.
-Day 6: Beginner Challenge #6 - Check if a year is a leap year.
-Day 7: Beginner Challenge #7 - Print numbers from 1 to 100 using a loop.
-Day 8: Beginner Challenge #8 - Create a program to reverse a string.
-Day 9: Beginner Challenge #9 - Calculate the factorial of a number.
-Day 10: Beginner Challenge #10 - Check if a string is a palindrome.
-Day 11: Beginner Challenge #11 - Sum all elements in an array.
-Day 12: Beginner Challenge #12 - Find the largest number in an array.
-Day 13: Beginner Challenge #13 - Sort an array using bubble sort.
-Day 14: Beginner Challenge #14 - Count the number of vowels in a string.
-Day 15: Beginner Challenge #15 - Print the Fibonacci series up to n terms.
-Day 16: Beginner Challenge #16 - Find the length of a string without using Length().
-Day 17: Beginner Challenge #17 - Create a basic login form using console input.
-Day 18: Beginner Challenge #18 - Check if a number is a prime.
-Day 19: Beginner Challenge #19 - Display multiplication table of a number.
-Day 20: Beginner Challenge #20 - Convert Celsius to Fahrenheit.
-Day 21: Beginner Challenge #21 - Print 'Hello, World!' to the console.
-Day 22: Beginner Challenge #22 - Create a program to add two numbers.
-Day 23: Beginner Challenge #23 - Write a program to check if a number is even or odd.
-Day 24: Beginner Challenge #24 - Build a simple calculator for +, -, _, /.
-Day 25: Beginner Challenge #25 - Write a program to find the maximum of three numbers.
-Day 26: Beginner Challenge #26 - Check if a year is a leap year.
-Day 27: Beginner Challenge #27 - Print numbers from 1 to 100 using a loop.
-Day 28: Beginner Challenge #28 - Create a program to reverse a string.
-Day 29: Beginner Challenge #29 - Calculate the factorial of a number.
-Day 30: Beginner Challenge #30 - Check if a string is a palindrome.
-Day 31: Beginner Challenge #31 - Sum all elements in an array.
-Day 32: Beginner Challenge #32 - Find the largest number in an array.
-Day 33: Beginner Challenge #33 - Sort an array using bubble sort.
-Day 34: Beginner Challenge #34 - Count the number of vowels in a string.
-Day 35: Beginner Challenge #35 - Print the Fibonacci series up to n terms.
-Day 36: Beginner Challenge #36 - Find the length of a string without using Length().
-Day 37: Beginner Challenge #37 - Create a basic login form using console input.
-Day 38: Beginner Challenge #38 - Check if a number is a prime.
-Day 39: Beginner Challenge #39 - Display multiplication table of a number.
-Day 40: Beginner Challenge #40 - Convert Celsius to Fahrenheit.
-Day 41: Beginner Challenge #41 - Print 'Hello, World!' to the console.
-Day 42: Beginner Challenge #42 - Create a program to add two numbers.
-Day 43: Beginner Challenge #43 - Write a program to check if a number is even or odd.
-Day 44: Beginner Challenge #44 - Build a simple calculator for +, -, _, /.
-Day 45: Beginner Challenge #45 - Write a program to find the maximum of three numbers.
-Day 46: Beginner Challenge #46 - Check if a year is a leap year.
-Day 47: Beginner Challenge #47 - Print numbers from 1 to 100 using a loop.
-Day 48: Beginner Challenge #48 - Create a program to reverse a string.
-Day 49: Beginner Challenge #49 - Calculate the factorial of a number.
-Day 50: Beginner Challenge #50 - Check if a string is a palindrome.
-Day 51: Beginner Challenge #51 - Sum all elements in an array.
-Day 52: Beginner Challenge #52 - Find the largest number in an array.
-Day 53: Beginner Challenge #53 - Sort an array using bubble sort.
-Day 54: Beginner Challenge #54 - Count the number of vowels in a string.
-Day 55: Beginner Challenge #55 - Print the Fibonacci series up to n terms.
-Day 56: Beginner Challenge #56 - Find the length of a string without using Length().
-Day 57: Beginner Challenge #57 - Create a basic login form using console input.
-Day 58: Beginner Challenge #58 - Check if a number is a prime.
-Day 59: Beginner Challenge #59 - Display multiplication table of a number.
-Day 60: Beginner Challenge #60 - Convert Celsius to Fahrenheit.
-Day 61: Beginner Challenge #61 - Print 'Hello, World!' to the console.
-Day 62: Beginner Challenge #62 - Create a program to add two numbers.
-Day 63: Beginner Challenge #63 - Write a program to check if a number is even or odd.
-Day 64: Beginner Challenge #64 - Build a simple calculator for +, -, _, /.
-Day 65: Beginner Challenge #65 - Write a program to find the maximum of three numbers.
-Day 66: Beginner Challenge #66 - Check if a year is a leap year.
-Day 67: Beginner Challenge #67 - Print numbers from 1 to 100 using a loop.
-Day 68: Beginner Challenge #68 - Create a program to reverse a string.
-Day 69: Beginner Challenge #69 - Calculate the factorial of a number.
-Day 70: Beginner Challenge #70 - Check if a string is a palindrome.
-Day 71: Beginner Challenge #71 - Sum all elements in an array.
-Day 72: Beginner Challenge #72 - Find the largest number in an array.
-Day 73: Beginner Challenge #73 - Sort an array using bubble sort.
-Day 74: Beginner Challenge #74 - Count the number of vowels in a string.
-Day 75: Beginner Challenge #75 - Print the Fibonacci series up to n terms.
-Day 76: Beginner Challenge #76 - Find the length of a string without using Length().
-Day 77: Beginner Challenge #77 - Create a basic login form using console input.
-Day 78: Beginner Challenge #78 - Check if a number is a prime.
-Day 79: Beginner Challenge #79 - Display multiplication table of a number.
-Day 80: Beginner Challenge #80 - Convert Celsius to Fahrenheit.
-Day 81: Beginner Challenge #81 - Print 'Hello, World!' to the console.
-Day 82: Beginner Challenge #82 - Create a program to add two numbers.
-Day 83: Beginner Challenge #83 - Write a program to check if a number is even or odd.
-Day 84: Beginner Challenge #84 - Build a simple calculator for +, -, _, /.
-Day 85: Beginner Challenge #85 - Write a program to find the maximum of three numbers.
-Day 86: Beginner Challenge #86 - Check if a year is a leap year.
-Day 87: Beginner Challenge #87 - Print numbers from 1 to 100 using a loop.
-Day 88: Beginner Challenge #88 - Create a program to reverse a string.
-Day 89: Beginner Challenge #89 - Calculate the factorial of a number.
-Day 90: Beginner Challenge #90 - Check if a string is a palindrome.
-Day 91: Beginner Challenge #91 - Sum all elements in an array.
-Day 92: Beginner Challenge #92 - Find the largest number in an array.
-Day 93: Beginner Challenge #93 - Sort an array using bubble sort.
-Day 94: Beginner Challenge #94 - Count the number of vowels in a string.
-Day 95: Beginner Challenge #95 - Print the Fibonacci series up to n terms.
-Day 96: Beginner Challenge #96 - Find the length of a string without using Length().
-Day 97: Beginner Challenge #97 - Create a basic login form using console input.
-Day 98: Beginner Challenge #98 - Check if a number is a prime.
-Day 99: Beginner Challenge #99 - Display multiplication table of a number.
-Day 100: Beginner Challenge #100 - Convert Celsius to Fahrenheit.
-Day 101: Beginner Challenge #101 - Print 'Hello, World!' to the console.
-Day 102: Beginner Challenge #102 - Create a program to add two numbers.
-Day 103: Beginner Challenge #103 - Write a program to check if a number is even or odd.
-Day 104: Beginner Challenge #104 - Build a simple calculator for +, -, _, /.
-Day 105: Beginner Challenge #105 - Write a program to find the maximum of three numbers.
-Day 106: Beginner Challenge #106 - Check if a year is a leap year.
-Day 107: Beginner Challenge #107 - Print numbers from 1 to 100 using a loop.
-Day 108: Beginner Challenge #108 - Create a program to reverse a string.
-Day 109: Beginner Challenge #109 - Calculate the factorial of a number.
-Day 110: Beginner Challenge #110 - Check if a string is a palindrome.
-Day 111: Beginner Challenge #111 - Sum all elements in an array.
-Day 112: Beginner Challenge #112 - Find the largest number in an array.
-Day 113: Beginner Challenge #113 - Sort an array using bubble sort.
-Day 114: Beginner Challenge #114 - Count the number of vowels in a string.
-Day 115: Beginner Challenge #115 - Print the Fibonacci series up to n terms.
-Day 116: Beginner Challenge #116 - Find the length of a string without using Length().
-Day 117: Beginner Challenge #117 - Create a basic login form using console input.
-Day 118: Beginner Challenge #118 - Check if a number is a prime.
-Day 119: Beginner Challenge #119 - Display multiplication table of a number.
-Day 120: Beginner Challenge #120 - Convert Celsius to Fahrenheit.
-Day 121: Intermediate Challenge #1 - Implement a binary search algorithm.
-Day 122: Intermediate Challenge #2 - Create a text-based calculator with menu.
-Day 123: Intermediate Challenge #3 - Build a simple phonebook using dictionaries.
-Day 124: Intermediate Challenge #4 - Create a student grade management system.
-Day 125: Intermediate Challenge #5 - Simulate a basic ATM system.
-Day 126: Intermediate Challenge #6 - Write a program to remove duplicates from an array.
-Day 127: Intermediate Challenge #7 - Create a class for Rectangle with area and perimeter methods.
-Day 128: Intermediate Challenge #8 - Read and write text files.
-Day 129: Intermediate Challenge #9 - Create a stopwatch timer in console.
-Day 130: Intermediate Challenge #10 - Implement a simple rock-paper-scissors game.
-Day 131: Intermediate Challenge #11 - Implement a binary search algorithm.
-Day 132: Intermediate Challenge #12 - Create a text-based calculator with menu.
-Day 133: Intermediate Challenge #13 - Build a simple phonebook using dictionaries.
-Day 134: Intermediate Challenge #14 - Create a student grade management system.
-Day 135: Intermediate Challenge #15 - Simulate a basic ATM system.
-Day 136: Intermediate Challenge #16 - Write a program to remove duplicates from an array.
-Day 137: Intermediate Challenge #17 - Create a class for Rectangle with area and perimeter methods.
-Day 138: Intermediate Challenge #18 - Read and write text files.
-Day 139: Intermediate Challenge #19 - Create a stopwatch timer in console.
-Day 140: Intermediate Challenge #20 - Implement a simple rock-paper-scissors game.
-Day 141: Intermediate Challenge #21 - Implement a binary search algorithm.
-Day 142: Intermediate Challenge #22 - Create a text-based calculator with menu.
-Day 143: Intermediate Challenge #23 - Build a simple phonebook using dictionaries.
-Day 144: Intermediate Challenge #24 - Create a student grade management system.
-Day 145: Intermediate Challenge #25 - Simulate a basic ATM system.
-Day 146: Intermediate Challenge #26 - Write a program to remove duplicates from an array.
-Day 147: Intermediate Challenge #27 - Create a class for Rectangle with area and perimeter methods.
-Day 148: Intermediate Challenge #28 - Read and write text files.
-Day 149: Intermediate Challenge #29 - Create a stopwatch timer in console.
-Day 150: Intermediate Challenge #30 - Implement a simple rock-paper-scissors game.
-Day 151: Intermediate Challenge #31 - Implement a binary search algorithm.
-Day 152: Intermediate Challenge #32 - Create a text-based calculator with menu.
-Day 153: Intermediate Challenge #33 - Build a simple phonebook using dictionaries.
-Day 154: Intermediate Challenge #34 - Create a student grade management system.
-Day 155: Intermediate Challenge #35 - Simulate a basic ATM system.
-Day 156: Intermediate Challenge #36 - Write a program to remove duplicates from an array.
-Day 157: Intermediate Challenge #37 - Create a class for Rectangle with area and perimeter methods.
-Day 158: Intermediate Challenge #38 - Read and write text files.
-Day 159: Intermediate Challenge #39 - Create a stopwatch timer in console.
-Day 160: Intermediate Challenge #40 - Implement a simple rock-paper-scissors game.
-Day 161: Intermediate Challenge #41 - Implement a binary search algorithm.
-Day 162: Intermediate Challenge #42 - Create a text-based calculator with menu.
-Day 163: Intermediate Challenge #43 - Build a simple phonebook using dictionaries.
-Day 164: Intermediate Challenge #44 - Create a student grade management system.
-Day 165: Intermediate Challenge #45 - Simulate a basic ATM system.
-Day 166: Intermediate Challenge #46 - Write a program to remove duplicates from an array.
-Day 167: Intermediate Challenge #47 - Create a class for Rectangle with area and perimeter methods.
-Day 168: Intermediate Challenge #48 - Read and write text files.
-Day 169: Intermediate Challenge #49 - Create a stopwatch timer in console.
-Day 170: Intermediate Challenge #50 - Implement a simple rock-paper-scissors game.
-Day 171: Intermediate Challenge #51 - Implement a binary search algorithm.
-Day 172: Intermediate Challenge #52 - Create a text-based calculator with menu.
-Day 173: Intermediate Challenge #53 - Build a simple phonebook using dictionaries.
-Day 174: Intermediate Challenge #54 - Create a student grade management system.
-Day 175: Intermediate Challenge #55 - Simulate a basic ATM system.
-Day 176: Intermediate Challenge #56 - Write a program to remove duplicates from an array.
-Day 177: Intermediate Challenge #57 - Create a class for Rectangle with area and perimeter methods.
-Day 178: Intermediate Challenge #58 - Read and write text files.
-Day 179: Intermediate Challenge #59 - Create a stopwatch timer in console.
-Day 180: Intermediate Challenge #60 - Implement a simple rock-paper-scissors game.
-Day 181: Intermediate Challenge #61 - Implement a binary search algorithm.
-Day 182: Intermediate Challenge #62 - Create a text-based calculator with menu.
-Day 183: Intermediate Challenge #63 - Build a simple phonebook using dictionaries.
-Day 184: Intermediate Challenge #64 - Create a student grade management system.
-Day 185: Intermediate Challenge #65 - Simulate a basic ATM system.
-Day 186: Intermediate Challenge #66 - Write a program to remove duplicates from an array.
-Day 187: Intermediate Challenge #67 - Create a class for Rectangle with area and perimeter methods.
-Day 188: Intermediate Challenge #68 - Read and write text files.
-Day 189: Intermediate Challenge #69 - Create a stopwatch timer in console.
-Day 190: Intermediate Challenge #70 - Implement a simple rock-paper-scissors game.
-Day 191: Intermediate Challenge #71 - Implement a binary search algorithm.
-Day 192: Intermediate Challenge #72 - Create a text-based calculator with menu.
-Day 193: Intermediate Challenge #73 - Build a simple phonebook using dictionaries.
-Day 194: Intermediate Challenge #74 - Create a student grade management system.
-Day 195: Intermediate Challenge #75 - Simulate a basic ATM system.
-Day 196: Intermediate Challenge #76 - Write a program to remove duplicates from an array.
-Day 197: Intermediate Challenge #77 - Create a class for Rectangle with area and perimeter methods.
-Day 198: Intermediate Challenge #78 - Read and write text files.
-Day 199: Intermediate Challenge #79 - Create a stopwatch timer in console.
-Day 200: Intermediate Challenge #80 - Implement a simple rock-paper-scissors game.
-Day 201: Intermediate Challenge #81 - Implement a binary search algorithm.
-Day 202: Intermediate Challenge #82 - Create a text-based calculator with menu.
-Day 203: Intermediate Challenge #83 - Build a simple phonebook using dictionaries.
-Day 204: Intermediate Challenge #84 - Create a student grade management system.
-Day 205: Intermediate Challenge #85 - Simulate a basic ATM system.
-Day 206: Intermediate Challenge #86 - Write a program to remove duplicates from an array.
-Day 207: Intermediate Challenge #87 - Create a class for Rectangle with area and perimeter methods.
-Day 208: Intermediate Challenge #88 - Read and write text files.
-Day 209: Intermediate Challenge #89 - Create a stopwatch timer in console.
-Day 210: Intermediate Challenge #90 - Implement a simple rock-paper-scissors game.
-Day 211: Intermediate Challenge #91 - Implement a binary search algorithm.
-Day 212: Intermediate Challenge #92 - Create a text-based calculator with menu.
-Day 213: Intermediate Challenge #93 - Build a simple phonebook using dictionaries.
-Day 214: Intermediate Challenge #94 - Create a student grade management system.
-Day 215: Intermediate Challenge #95 - Simulate a basic ATM system.
-Day 216: Intermediate Challenge #96 - Write a program to remove duplicates from an array.
-Day 217: Intermediate Challenge #97 - Create a class for Rectangle with area and perimeter methods.
-Day 218: Intermediate Challenge #98 - Read and write text files.
-Day 219: Intermediate Challenge #99 - Create a stopwatch timer in console.
-Day 220: Intermediate Challenge #100 - Implement a simple rock-paper-scissors game.
-Day 221: Intermediate Challenge #101 - Implement a binary search algorithm.
-Day 222: Intermediate Challenge #102 - Create a text-based calculator with menu.
-Day 223: Intermediate Challenge #103 - Build a simple phonebook using dictionaries.
-Day 224: Intermediate Challenge #104 - Create a student grade management system.
-Day 225: Intermediate Challenge #105 - Simulate a basic ATM system.
-Day 226: Intermediate Challenge #106 - Write a program to remove duplicates from an array.
-Day 227: Intermediate Challenge #107 - Create a class for Rectangle with area and perimeter methods.
-Day 228: Intermediate Challenge #108 - Read and write text files.
-Day 229: Intermediate Challenge #109 - Create a stopwatch timer in console.
-Day 230: Intermediate Challenge #110 - Implement a simple rock-paper-scissors game.
-Day 231: Intermediate Challenge #111 - Implement a binary search algorithm.
-Day 232: Intermediate Challenge #112 - Create a text-based calculator with menu.
-Day 233: Intermediate Challenge #113 - Build a simple phonebook using dictionaries.
-Day 234: Intermediate Challenge #114 - Create a student grade management system.
-Day 235: Intermediate Challenge #115 - Simulate a basic ATM system.
-Day 236: Intermediate Challenge #116 - Write a program to remove duplicates from an array.
-Day 237: Intermediate Challenge #117 - Create a class for Rectangle with area and perimeter methods.
-Day 238: Intermediate Challenge #118 - Read and write text files.
-Day 239: Intermediate Challenge #119 - Create a stopwatch timer in console.
-Day 240: Intermediate Challenge #120 - Implement a simple rock-paper-scissors game.
-Day 241: Advanced Challenge #1 - Create a login system with password encryption.
-Day 242: Advanced Challenge #2 - Implement a stack and queue from scratch.
-Day 243: Advanced Challenge #3 - Build a contact manager with CRUD operations.
-Day 244: Advanced Challenge #4 - Create a mini library management system.
-Day 245: Advanced Challenge #5 - Use LINQ to filter and project data from a list.
-Day 246: Advanced Challenge #6 - Connect to an SQL database and perform operations.
-Day 247: Advanced Challenge #7 - Design a basic inventory management system.
-Day 248: Advanced Challenge #8 - Create a console app with multi-threading.
-Day 249: Advanced Challenge #9 - Build a JSON reader and writer.
-Day 250: Advanced Challenge #10 - Implement a basic chat application using sockets.
-Day 251: Advanced Challenge #11 - Create a login system with password encryption.
-Day 252: Advanced Challenge #12 - Implement a stack and queue from scratch.
-Day 253: Advanced Challenge #13 - Build a contact manager with CRUD operations.
-Day 254: Advanced Challenge #14 - Create a mini library management system.
-Day 255: Advanced Challenge #15 - Use LINQ to filter and project data from a list.
-Day 256: Advanced Challenge #16 - Connect to an SQL database and perform operations.
-Day 257: Advanced Challenge #17 - Design a basic inventory management system.
-Day 258: Advanced Challenge #18 - Create a console app with multi-threading.
-Day 259: Advanced Challenge #19 - Build a JSON reader and writer.
-Day 260: Advanced Challenge #20 - Implement a basic chat application using sockets.
-Day 261: Advanced Challenge #21 - Create a login system with password encryption.
-Day 262: Advanced Challenge #22 - Implement a stack and queue from scratch.
-Day 263: Advanced Challenge #23 - Build a contact manager with CRUD operations.
-Day 264: Advanced Challenge #24 - Create a mini library management system.
-Day 265: Advanced Challenge #25 - Use LINQ to filter and project data from a list.
-Day 266: Advanced Challenge #26 - Connect to an SQL database and perform operations.
-Day 267: Advanced Challenge #27 - Design a basic inventory management system.
-Day 268: Advanced Challenge #28 - Create a console app with multi-threading.
-Day 269: Advanced Challenge #29 - Build a JSON reader and writer.
-Day 270: Advanced Challenge #30 - Implement a basic chat application using sockets.
-Day 271: Advanced Challenge #31 - Create a login system with password encryption.
-Day 272: Advanced Challenge #32 - Implement a stack and queue from scratch.
-Day 273: Advanced Challenge #33 - Build a contact manager with CRUD operations.
-Day 274: Advanced Challenge #34 - Create a mini library management system.
-Day 275: Advanced Challenge #35 - Use LINQ to filter and project data from a list.
-Day 276: Advanced Challenge #36 - Connect to an SQL database and perform operations.
-Day 277: Advanced Challenge #37 - Design a basic inventory management system.
-Day 278: Advanced Challenge #38 - Create a console app with multi-threading.
-Day 279: Advanced Challenge #39 - Build a JSON reader and writer.
-Day 280: Advanced Challenge #40 - Implement a basic chat application using sockets.
-Day 281: Advanced Challenge #41 - Create a login system with password encryption.
-Day 282: Advanced Challenge #42 - Implement a stack and queue from scratch.
-Day 283: Advanced Challenge #43 - Build a contact manager with CRUD operations.
-Day 284: Advanced Challenge #44 - Create a mini library management system.
-Day 285: Advanced Challenge #45 - Use LINQ to filter and project data from a list.
-Day 286: Advanced Challenge #46 - Connect to an SQL database and perform operations.
-Day 287: Advanced Challenge #47 - Design a basic inventory management system.
-Day 288: Advanced Challenge #48 - Create a console app with multi-threading.
-Day 289: Advanced Challenge #49 - Build a JSON reader and writer.
-Day 290: Advanced Challenge #50 - Implement a basic chat application using sockets.
-Day 291: Advanced Challenge #51 - Create a login system with password encryption.
-Day 292: Advanced Challenge #52 - Implement a stack and queue from scratch.
-Day 293: Advanced Challenge #53 - Build a contact manager with CRUD operations.
-Day 294: Advanced Challenge #54 - Create a mini library management system.
-Day 295: Advanced Challenge #55 - Use LINQ to filter and project data from a list.
-Day 296: Advanced Challenge #56 - Connect to an SQL database and perform operations.
-Day 297: Advanced Challenge #57 - Design a basic inventory management system.
-Day 298: Advanced Challenge #58 - Create a console app with multi-threading.
-Day 299: Advanced Challenge #59 - Build a JSON reader and writer.
-Day 300: Advanced Challenge #60 - Implement a basic chat application using sockets.
-Day 301: Advanced Challenge #61 - Create a login system with password encryption.
-Day 302: Advanced Challenge #62 - Implement a stack and queue from scratch.
-Day 303: Advanced Challenge #63 - Build a contact manager with CRUD operations.
-Day 304: Advanced Challenge #64 - Create a mini library management system.
-Day 305: Advanced Challenge #65 - Use LINQ to filter and project data from a list.
-Day 306: Advanced Challenge #66 - Connect to an SQL database and perform operations.
-Day 307: Advanced Challenge #67 - Design a basic inventory management system.
-Day 308: Advanced Challenge #68 - Create a console app with multi-threading.
-Day 309: Advanced Challenge #69 - Build a JSON reader and writer.
-Day 310: Advanced Challenge #70 - Implement a basic chat application using sockets.
-Day 311: Advanced Challenge #71 - Create a login system with password encryption.
-Day 312: Advanced Challenge #72 - Implement a stack and queue from scratch.
-Day 313: Advanced Challenge #73 - Build a contact manager with CRUD operations.
-Day 314: Advanced Challenge #74 - Create a mini library management system.
-Day 315: Advanced Challenge #75 - Use LINQ to filter and project data from a list.
-Day 316: Advanced Challenge #76 - Connect to an SQL database and perform operations.
-Day 317: Advanced Challenge #77 - Design a basic inventory management system.
-Day 318: Advanced Challenge #78 - Create a console app with multi-threading.
-Day 319: Advanced Challenge #79 - Build a JSON reader and writer.
-Day 320: Advanced Challenge #80 - Implement a basic chat application using sockets.
-Day 321: Advanced Challenge #81 - Create a login system with password encryption.
-Day 322: Advanced Challenge #82 - Implement a stack and queue from scratch.
-Day 323: Advanced Challenge #83 - Build a contact manager with CRUD operations.
-Day 324: Advanced Challenge #84 - Create a mini library management system.
-Day 325: Advanced Challenge #85 - Use LINQ to filter and project data from a list.
-Day 326: Advanced Challenge #86 - Connect to an SQL database and perform operations.
-Day 327: Advanced Challenge #87 - Design a basic inventory management system.
-Day 328: Advanced Challenge #88 - Create a console app with multi-threading.
-Day 329: Advanced Challenge #89 - Build a JSON reader and writer.
-Day 330: Advanced Challenge #90 - Implement a basic chat application using sockets.
-Day 331: Expert Challenge #1 - Build a web API using ASP.NET Core.
-Day 332: Expert Challenge #2 - Create a task scheduler using threading and timers.
-Day 333: Expert Challenge #3 - Implement a data structure like a graph with traversal algorithms.
-Day 334: Expert Challenge #4 - Build a small e-commerce backend system.
-Day 335: Expert Challenge #5 - Create a full-stack blog site using ASP.NET Core and Blazor.
-Day 336: Expert Challenge #6 - Develop a basic machine learning model with ML.NET.
-Day 337: Expert Challenge #7 - Build a simple compiler or interpreter for a toy language.
-Day 338: Expert Challenge #8 - Build a web API using ASP.NET Core.
-Day 339: Expert Challenge #9 - Create a task scheduler using threading and timers.
-Day 340: Expert Challenge #10 - Implement a data structure like a graph with traversal algorithms.
-Day 341: Expert Challenge #11 - Build a small e-commerce backend system.
-Day 342: Expert Challenge #12 - Create a full-stack blog site using ASP.NET Core and Blazor.
-Day 343: Expert Challenge #13 - Develop a basic machine learning model with ML.NET.
-Day 344: Expert Challenge #14 - Build a simple compiler or interpreter for a toy language.
-Day 345: Expert Challenge #15 - Build a web API using ASP.NET Core.
-Day 346: Expert Challenge #16 - Create a task scheduler using threading and timers.
-Day 347: Expert Challenge #17 - Implement a data structure like a graph with traversal algorithms.
-Day 348: Expert Challenge #18 - Build a small e-commerce backend system.
-Day 349: Expert Challenge #19 - Create a full-stack blog site using ASP.NET Core and Blazor.
-Day 350: Expert Challenge #20 - Develop a basic machine learning model with ML.NET.
-Day 351: Expert Challenge #21 - Build a simple compiler or interpreter for a toy language.
-Day 352: Expert Challenge #22 - Build a web API using ASP.NET Core.
-Day 353: Expert Challenge #23 - Create a task scheduler using threading and timers.
-Day 354: Expert Challenge #24 - Implement a data structure like a graph with traversal algorithms.
-Day 355: Expert Challenge #25 - Build a small e-commerce backend system.
-Day 356: Expert Challenge #26 - Create a full-stack blog site using ASP.NET Core and Blazor.
-Day 357: Expert Challenge #27 - Develop a basic machine learning model with ML.NET.
-Day 358: Expert Challenge #28 - Build a simple compiler or interpreter for a toy language.
-Day 359: Expert Challenge #29 - Build a web API using ASP.NET Core.
-Day 360: Expert Challenge #30 - Create a task scheduler using threading and timers.
-Day 361: Expert Challenge #31 - Implement a data structure like a graph with traversal algorithms.
-Day 362: Expert Challenge #32 - Build a small e-commerce backend system.
-Day 363: Expert Challenge #33 - Create a full-stack blog site using ASP.NET Core and Blazor.
-Day 364: Expert Challenge #34 - Develop a basic machine learning model with ML.NET.
-Day 365: Expert Challenge #35 - Build a simple compiler or interpreter for a toy language.
+🟢 BEGINNER (Days 1–120)
+1. Print "Hello, World!"
+2. Create a program that adds two numbers
+3. Create a program that multiplies two numbers
+4. Convert Celsius to Fahrenheit
+5. Swap two variable values
+6. Calculate area of a rectangle
+7. Calculate area of a circle
+8. Check if a number is even or odd
+9. Find the largest of three numbers
+10. Check if a number is positive or negative
+11. Use a switch-case to display a day of the week
+12. Print the first 10 natural numbers
+13. Print multiplication table of a number
+14. Find factorial of a number
+15. Generate Fibonacci series
+16. Reverse a number
+17. Check if a number is a palindrome
+18. Count digits in a number
+19. Sum of digits in a number
+20. Calculate simple interest
+21. Check if a year is a leap year
+22. Create a basic calculator (add, sub, mul, div)
+23. Find ASCII value of a character
+24. Check if a character is a vowel or consonant
+25. Check if a character is uppercase/lowercase
+26. Convert lowercase to uppercase
+27. Count vowels in a string
+28. Reverse a string
+29. Check if a string is a palindrome
+30. Concatenate two strings
+31. Replace a word in a string
+32. Count words in a sentence
+33. Split a sentence into words
+34. Sort an array of integers
+35. Find the largest number in an array
+36. Find the smallest number in an array
+37. Calculate average of array elements
+38. Count even and odd numbers in array
+39. Merge two arrays
+40. Search for an element in array
+41. Remove duplicate elements from array
+42. Bubble sort
+43. Selection sort
+44. Insert element in array at position
+45. Delete element from array
+46. Reverse array
+47. Convert string to char array
+48. Create a method to greet a user
+49. Create a method that returns square of a number
+50. Overload a method
+51. Create a class for Student and display info
+52. Use properties to get and set data
+53. Create a constructor
+54. Use static variable
+55. Use enum to list weekdays
+56. Use struct to hold coordinates
+57. Create a program that reads from console
+58. Handle divide by zero exception
+59. Throw your own custom exception
+60. Create a basic menu using loop and switch
+61. Use DateTime to print current date
+62. Display day of the week using DateTime
+63. Format date in dd-MM-yyyy
+64. Use ternary operator
+65. Create a simple login (hardcoded credentials)
+66. Print a triangle pattern using loops
+67. Print a pyramid pattern using loops
+68. Create a number guessing game
+69. Find all prime numbers up to 100
+70. Check if a number is prime
+71. Create a stopwatch using DateTime
+72. Use Random to generate a number
+73. Use Random to simulate a dice roll
+74. Create a function that accepts params array
+75. Calculate power of a number using Math.Pow
+76. Use Math.Sqrt and Math.Abs
+77. Convert string to int and back
+78. Parse a double from a string
+79. Convert string to DateTime
+80. Use nullable types
+81. Demonstrate boxing and unboxing
+82. Create a Person class with a method Speak()
+83. Use inheritance to create Employee from Person
+84. Override a method from base class
+85. Call base class constructor from derived class
+86. Use virtual and override keywords
+87. Create an abstract class and implement it
+88. Create an interface and implement it
+89. Use a list and add/remove items
+90. Use a dictionary to store user IDs and names
+91. Count elements in a list
+92. Sort a list of numbers
+93. Find a value in a list
+94. Use foreach loop with a list
+95. Create and use multidimensional array
+96. Create a jagged array
+97. Print values from a 2D array
+98. Create a method that returns a tuple
+99. Use out parameters in a method
+100. Use ref parameters in a method
+101. Generate a multiplication table using 2D array
+102. Implement a basic stopwatch using DateTime
+103. Handle format exception when parsing input
+104. Create a simple countdown timer
+105. Use string interpolation for formatted output
+106. Count spaces and punctuation in a sentence
+107. Replace vowels in a string with ‘*’
+108. Create an array of strings and sort it
+109. Join an array of strings into a single string
+110. Remove whitespace from a string
+111. Create a program to simulate a coin toss
+112. Write a method to reverse a char array
+113. Check if a string contains a word
+114. Find frequency of characters in a string
+115. Write a method to check if input is numeric
+116. Create a login retry system (3 tries max)
+117. Check age and output voting eligibility
+118. Write a method to validate email format
+119. Compare two strings (case insensitive)
+120. Count the number of uppercase letters
+
+🟡 INTERMEDIATE (Days 121–240)
+121. Create a list of names and sort them alphabetically
+122. Find all names starting with 'A' in a list
+123. Use LINQ to filter even numbers from an array
+124. Use LINQ to find the longest word in a sentence
+125. Group a list of numbers by even/odd using LINQ
+126. Count items in a list using LINQ
+127. Calculate average from a list of numbers using LINQ
+128. Sum elements of a list using LINQ
+129. Find duplicates in a list using LINQ
+130. Create a dictionary of student names and grades
+131. Calculate average student grade
+132. Find top scoring student
+133. Remove all students who failed
+134. Create a method that accepts a delegate
+135. Use Func<T, TResult> for a math operation
+136. Use Action<T> to print a list
+137. Use Predicate<T> to filter a list
+138. Write a custom delegate and use it
+139. Subscribe and unsubscribe to an event
+140. Create a button click simulation with events
+141. Create a custom event and raise it
+142. Write a lambda expression for square of a number
+143. Use lambda to sort a list of objects
+144. Use LINQ Select to project to another type
+145. Use Where and Select together with LINQ
+146. Combine multiple LINQ conditions
+147. Flatten nested lists using LINQ SelectMany
+148. Create a program that reads a text file
+149. Write to a text file
+150. Count lines in a text file
+151. Read JSON from file and display keys
+152. Serialize a class to JSON
+153. Deserialize JSON to a C# object
+154. Handle FileNotFoundException
+155. Handle null reference safely
+156. Use try-catch-finally
+157. Create a class with private and public properties
+158. Use encapsulation with getters/setters
+159. Make a class immutable
+160. Use static class for utility methods
+161. Create and use a constructor with parameters
+162. Overload constructors
+163. Use sealed keyword
+164. Use readonly fields
+165. Demonstrate inheritance hierarchy
+166. Demonstrate polymorphism with virtual methods
+167. Create a class with interface and override
+168. Use interface segregation (multiple interfaces)
+169. Create an interface and implement explicitly
+170. Create an abstract method and override it
+171. Create and use extension methods
+172. Chain extension methods
+173. Create a generic class
+174. Create a generic method
+175. Use constraints on generic types
+176. Write a simple custom exception
+177. Use catch filters
+178. Throw exception in a method and handle it in caller
+179. Use Debug.Assert to validate logic
+180. Implement IComparable to sort a custom class
+181. Override Equals and GetHashCode
+182. Use IComparer for custom sorting
+183. Create and use an enum with flags
+184. Create a Stopwatch using `System.Diagnostics`
+185. Use Stopwatch to time an operation
+186. Create a timer event (System.Timers.Timer)
+187. Simulate a progress bar in console
+188. Use Queue to simulate a printer queue
+189. Use Stack to reverse a string
+190. Use Dictionary to count word frequency
+191. Convert a list to a dictionary
+192. Remove duplicates from a list using HashSet
+193. Demonstrate deep copy vs shallow copy
+194. Clone an object using serialization
+195. Implement IDisposable and use using statement
+196. Write a function to return only unique elements
+197. Format currency using culture info
+198. Convert string to DateTime with custom format
+199. Convert time from 12h to 24h format
+200. Convert DateTime to UTC and back
+201. Get time difference between two dates
+202. Add days/weeks/months to a date
+203. Display current time in another timezone
+204. Parse a timespan from a string
+205. Display how long ago something happened (e.g. "5 days ago")
+206. Validate if string is a valid date
+207. Write your own string.IsNullOrEmpty method
+208. Write a method that removes punctuation
+209. Use Regex to validate an email address
+210. Use Regex to extract all numbers from a string
+211. Create a case-insensitive string comparison method
+212. Find the most common word in a paragraph
+213. Detect if a string is an anagram
+214. Detect if two strings are rotations
+215. Detect if a string has all unique characters
+216. Write a basic Caesar Cipher
+217. Decrypt Caesar Cipher
+218. Count letter frequency in a paragraph
+219. Write a function to compress strings (e.g. aabcc → a2b1c2)
+220. Convert Roman numerals to integer
+221. Find first non-repeated character in string
+222. Find first repeated character in string
+223. Count occurrences of each word
+224. Title-case a sentence
+225. Split paragraph into sentences
+226. Check for balanced parentheses
+227. Check if HTML-like tags are correctly nested
+228. Evaluate a simple math expression (e.g. "3 + 2 * 2")
+229. Create a tiny templating system (replace placeholders)
+230. Write a function to pluralize English words
+231. Format number with thousand separator
+232. Create acronym from a sentence (e.g. "World Health Organization" → "WHO")
+233. Find longest substring without repeating characters
+234. Find all palindromic substrings
+235. Use StringBuilder to efficiently build a long string
+236. Simulate a log system using StringBuilder
+237. Check if a file exists before opening
+238. Safely delete a file
+239. Append to an existing file
+240. Create and move a file to another folder
+
+
+🔴 ADVANCED (Days 241–365)
+
+241. Create a command-line calculator that handles operator precedence
+242. Create a mini bank account class with deposit, withdraw, and balance
+243. Implement basic authentication system (username/password check)
+244. Create a basic to-do list CLI app with add/remove/display
+245. Use binary search to find an item in a sorted list
+246. Implement a linked list from scratch
+247. Create a stack using a class
+248. Create a queue using a class
+249. Implement a simple hash table using arrays
+250. Implement selection sort manually
+251. Implement quicksort
+252. Implement mergesort
+253. Implement binary tree and in-order traversal
+254. Implement pre-order and post-order traversals
+255. Count nodes and height of a binary tree
+256. Find the lowest common ancestor in a binary tree
+257. Serialize and deserialize a binary tree
+258. Solve FizzBuzz using LINQ
+259. Find the intersection of two arrays
+260. Find the union of two arrays
+261. Implement a recursive factorial function
+262. Implement recursive Fibonacci
+263. Count ways to climb stairs (1 or 2 steps at a time)
+264. Solve Tower of Hanoi for 3 disks
+265. Generate all subsets of a set (power set)
+266. Generate all permutations of a list
+267. Solve N-Queens for N=4
+268. Check if a Sudoku board is valid
+269. Implement a basic graph and DFS traversal
+270. Implement BFS traversal on a graph
+271. Detect a cycle in a graph
+272. Count connected components in a graph
+273. Implement Dijkstra’s shortest path algorithm
+274. Implement A* pathfinding for a grid
+275. Create a basic console-based chatbot
+276. Simulate a simple voting system with tallying
+277. Create a quiz app with questions and scoring
+278. Create a console-based inventory system
+279. Generate a maze (randomized DFS)
+280. Solve a maze using backtracking
+281. Create a CSV file reader
+282. Export data to a CSV file
+283. Create a log writer class that timestamps messages
+284. Read/write binary files
+285. Monitor file system changes with FileSystemWatcher
+286. Simulate a notification system with events
+287. Build a stopwatch with start/pause/reset
+288. Schedule a task to run every X seconds
+289. Create a configuration loader (read JSON settings)
+290. Use dependency injection for logging service
+291. Write unit tests for math functions
+292. Write unit tests for string utilities
+293. Use NUnit or xUnit for testing
+294. Mock a service in unit tests
+295. Implement retry logic with exponential backoff
+296. Add logging to exception handlers
+297. Create a basic REST client using HttpClient
+298. Call a public API and parse the result
+299. Deserialize a JSON array from API
+300. Handle HTTP errors and timeouts
+301. Build a minimal Web API using ASP.NET Core
+302. Create an endpoint that returns JSON data
+303. Accept input via POST request and validate
+304. Use dependency injection in ASP.NET Core
+305. Configure routing in a Web API
+306. Add logging middleware in ASP.NET Core
+307. Add simple in-memory caching
+308. Use appsettings.json for configuration
+309. Create a model class and bind to request data
+310. Create a DTO and map manually
+311. Use AutoMapper for mapping objects
+312. Implement JWT authentication
+313. Create a middleware to log request/response time
+314. Upload a file using API and save locally
+315. Validate file type and size in upload
+316. Create a data access layer using Entity Framework
+317. Connect to a SQL Server database
+318. Create database schema using EF migrations
+319. Insert, update, and delete records via EF
+320. Query database using LINQ
+321. Add foreign key relationship
+322. Load related data using Include
+323. Use NoTracking for read-only queries
+324. Create a many-to-many relationship
+325. Seed initial data in DB
+326. Handle concurrency conflicts
+327. Use transactions in EF Core
+328. Secure sensitive data in app settings
+329. Encrypt/decrypt a string using AES
+330. Create a login system with hashed passwords
+331. Store hashed passwords using bcrypt or PBKDF2
+332. Implement role-based authorization
+333. Create a global error handler
+334. Customize validation attributes
+335. Create custom model binder
+336. Write custom route constraints
+337. Create a Razor class library for reusable components
+338. Deploy an ASP.NET Core app to local IIS
+339. Deploy app to Azure App Service
+340. Use GitHub Actions to automate build
+341. Use Serilog or NLog for structured logging
+342. Add correlation IDs to logs
+343. Analyze logs using Seq or Kibana
+344. Use Swagger to document APIs
+345. Add versioning to APIs
+346. Limit API rate using middleware
+347. Add CORS policy to allow specific domains
+348. Enable HTTPS redirection
+349. Use HealthChecks for monitoring
+350. Create a CLI tool using System.CommandLine
+351. Create a background service
+352. Use HttpClientFactory for dependency-injected HTTP
+353. Cache HTTP requests
+354. Retry failed HTTP calls
+355. Parse command-line arguments
+356. Generate a report from data and export as CSV
+357. Send email via SMTP in C#
+358. Schedule email notifications
+359. Scrape a website and extract data
+360. Use Selenium for browser automation
+361. Generate PDF report from HTML template
+362. Create a plugin system using reflection
+363. Load and invoke methods from a DLL dynamically
+364. Use MEF (Managed Extensibility Framework)
+365. Review and refactor a previous challenge for optimization
+
