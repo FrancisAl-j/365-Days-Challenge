@@ -21,6 +21,9 @@ class Day2
         //day3.evenOrOdd(2);
 
         // Importing Day 4
-        day4.calculator(5, 4);
+        //day4.calculator(5, 4);
+
+        // Importing Day 5
+        day5.swapVariable("Francis", "Bilas");
     }
 }
