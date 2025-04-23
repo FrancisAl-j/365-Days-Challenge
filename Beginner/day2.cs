@@ -17,13 +17,18 @@ class Day2
         // 2
         Console.WriteLine(1 + 1);
 
-        // importing Day 3
+        // Importing Day 6
+        day6.calculateRect(19, 29);
+    }
+        
+}
+
+// DONE
+// importing Day 3
         //day3.evenOrOdd(2);
 
         // Importing Day 4
         //day4.calculator(5, 4);
 
         // Importing Day 5
-        day5.swapVariable("Francis", "Bilas");
-    }
-}
+        //day5.swapVariable("Francis", "Bilas");
