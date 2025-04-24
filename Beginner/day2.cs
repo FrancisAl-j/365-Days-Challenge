@@ -18,7 +18,10 @@ class Day2
         Console.WriteLine(1 + 1);
 
         // Importing Day 6
-        day6.calculateRect(19, 29);
+        //day6.calculateRect(19, 29);
+
+        // Importing Day 7
+        day7.areaCircle(19);
     }
         
 }
