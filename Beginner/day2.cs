@@ -12,16 +12,13 @@ class Day2
     static void Main(string[] args)
     {
         // 20
-        Console.WriteLine(19 + 1);
+        //Console.WriteLine(19 + 1);
 
         // 2
-        Console.WriteLine(1 + 1);
-
-        // Importing Day 6
-        //day6.calculateRect(19, 29);
-
-        // Importing Day 7
-        day7.areaCircle(19);
+        //Console.WriteLine(1 + 1);
+    
+        // Importing Day 8
+        day8.evenOrOdd(9);
     }
         
 }
@@ -35,3 +32,9 @@ class Day2
 
         // Importing Day 5
         //day5.swapVariable("Francis", "Bilas");
+
+        // Importing Day 6
+        //day6.calculateRect(19, 29);
+
+        // Importing Day 7
+        //day7.areaCircle(19);
