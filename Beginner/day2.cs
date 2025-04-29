@@ -18,7 +18,10 @@ class Day2
         //Console.WriteLine(1 + 1);
     
         // Importing Day 9
-        day9.findTheLarget(2033, 332, 100);
+        //day9.findTheLarget(2033, 332, 100);
+
+        // Importing Day 10
+        day10.negatieOrPositive(-10);
     }
         
 }
