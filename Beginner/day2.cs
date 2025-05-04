@@ -16,12 +16,10 @@ class Day2
 
         // 2
         //Console.WriteLine(1 + 1);
-    
-        // Importing Day 9
-        //day9.findTheLarget(2033, 332, 100);
 
-        // Importing Day 10
-        day10.negatieOrPositive(-10);
+        // Iporting Day 11
+        day11.switchCase(1);
+       
     }
         
 }
@@ -44,3 +42,9 @@ class Day2
 
         // Importing Day 8
         //day8.evenOrOdd(9);
+
+         // Importing Day 9
+        //day9.findTheLarget(2033, 332, 100);
+
+        // Importing Day 10
+        //day10.negatieOrPositive(-10);
